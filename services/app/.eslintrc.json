@@ -1,0 +1,28 @@
+{
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es2021": true,
+        "jest/globals": true
+    },
+    "extends": "airbnb-base",
+    "overrides": [
+    ],
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true,
+            "modules": true
+        }
+    },
+    "rules": {
+        "class-methods-use-this": "off",
+        "no-underscore-dangle": "off",
+        "no-return-await": "off",
+        "arrow-body-style": "off",
+        "max-len": ["error", 255],
+        "react/jsx-uses-react": "error",
+        "react/jsx-uses-vars": "error",
+        "no-use-before-define": "off"
+    },
+    "plugins": ["jest", "react"]
+}

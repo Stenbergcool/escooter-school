@@ -1,0 +1,47 @@
+[
+  {
+    "parkingId": 1,
+    "properties": {
+    "lat": 57.699547164654355,
+    "lng": 11.979589539157711
+  },
+    "charging": true,
+    "rate": "c"
+  },
+  {
+    "parkingId": 2,
+    "properties": {
+    "lat": 57.69853813372487,
+    "lng": 11.977529602634274
+  },
+    "charging": true,
+    "rate": "a"
+  },
+  {
+    "parkingId": 3,
+    "properties": {
+    "lat": 57.69963889334505,
+    "lng": 11.975898819553219
+  },
+    "charging": false,
+    "rate": "b"
+  },
+  {
+    "parkingId": 4,
+    "properties": {
+    "lat": 57.70317027130757,
+    "lng": 11.980362015354
+  },
+    "charging": true,
+    "rate": "a"
+  },
+  {
+    "parkingId": 5,
+    "properties": {
+      "lat": 57.70472947147624,
+      "lng": 11.978645401584469
+    },
+    "charging": false,
+    "rate": "b"
+  }
+]

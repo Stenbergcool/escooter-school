@@ -1,0 +1,24 @@
+[
+
+    {
+      "id": "a",
+      "name": "best rate",
+      "tariff": 10
+    },
+    {
+      "id": "b",
+      "name": "next best",
+      "tariff": 15
+    },
+    {
+      "id": "c",
+      "name": "next worst",
+      "tariff": 20
+    },
+    {
+      "id": "d",
+      "name": "standard",
+      "tariff": 40
+    }
+
+]
